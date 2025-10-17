@@ -19,7 +19,7 @@ namespace TestDesignPatterns.Model
         public void Update(string gebeurtenis)
         {
             if (gebeurtenis == "Vulkaanuibarsting")
-                Console.WriteLine($"{Naam} schuilt in zijn hol!");
+                Console.WriteLine($"{Naam} schuilt in hun hol!");
         }
     }
 }
